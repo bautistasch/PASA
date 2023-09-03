@@ -8,6 +8,7 @@ debugpy==1.6.7
 decorator==5.1.1
 executing==1.2.0
 fonttools==4.41.1
+h5py==3.9.0
 ipykernel==6.25.0
 ipympl==0.9.3
 ipython==8.14.0
@@ -33,6 +34,7 @@ pprintpp==0.4.0
 prompt-toolkit==3.0.39
 psutil==5.9.5
 pure-eval==0.2.2
+pydub==0.25.1
 Pygments==2.15.1
 pyparsing==3.0.9
 python-dateutil==2.8.2
