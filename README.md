@@ -1,4 +1,4 @@
-# Procesamiento Adapatativo de Señales Aleatorias (PASA)
+# Procesamiento Adaptativo de Señales Aleatorias (PASA)
 
 - TP1: Estimación espectral no paramétrica. Análisis de la señal gravitatoria GW150914, causada por la colisión de dos agujeros negros, detectada por el proyecto LIGO en 2015.
 
